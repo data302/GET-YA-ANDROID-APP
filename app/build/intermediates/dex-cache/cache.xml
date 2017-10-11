@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\tegosyata\.android\build-cache\1150fbf9271d6d2a4e408beecbea615031582972\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fdbc7356cbd67746b114447b249e959b61024e30">
+        <dex dex="C:\Users\tegosyata\Downloads\12\VideoPlaySample-master\app\build\intermediates\pre-dexed\debug\classes_83eaa3ed1ed2d4b2c43e8ddc4a742c4d3faed624.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tegosyata\.android\build-cache\27b427df6e77ca645471ded4e8bb4befa737154e\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\tegosyata\Downloads\12\VideoPlaySample-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_bc5b73bbfa22e091a4a332a605d871490fd01257.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tegosyata\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\tegosyata\Downloads\12\VideoPlaySample-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_79707da111e8458934935c9cd073238e4217a105.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tegosyata\.android\build-cache\15089788130d9738720661cb57b4f9409018ebc9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\tegosyata\Downloads\12\VideoPlaySample-master\app\build\intermediates\pre-dexed\debug\classes_79f1cb3b91ae767775279817afc47c7411bf2260.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tegosyata\.android\build-cache\27b427df6e77ca645471ded4e8bb4befa737154e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\tegosyata\Downloads\12\VideoPlaySample-master\app\build\intermediates\pre-dexed\debug\classes_ccb36b968ee5b3db6382ae1984515536524bff75.jar" />
+    </item>
+
+</items>
